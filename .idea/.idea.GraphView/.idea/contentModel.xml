@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\KonViction\.Rider2018.1\system\resharper-host\Local\Transient\ReSharperHost\v12\SolutionCaches\_GraphView.-703196813.00" t="ExcludeRecursive" />
+    <e p="F:\Documents\Unity Projects\GraphView" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="ComponentEmbedder" t="Include">
+          <e p="ComponentEmbedder.cs" t="Include" />
+          <e p="Editor" t="Include">
+            <e p="ComponentEmbedderEditor.cs" t="Include" />
+          </e>
+        </e>
+        <e p="GraphAPI" t="Include">
+          <e p="MyGraphWindow.cs" t="Include" />
+        </e>
+        <e p="isdhas.cs" t="Include" />
+        <e p="isdhasEditor.cs" t="Include" />
+        <e p="RealmWorks" t="Include">
+          <e p="ContentWindow.cs" t="Include" />
+          <e p="InkVariablesWindow.cs" t="Include" />
+          <e p="StoryView" t="Include">
+            <e p="Editor" t="Include">
+              <e p="Resources" t="Include">
+                <e p="nodeStyles.uss" t="Include" />
+              </e>
+              <e p="StoryGraphView.cs" t="Include" />
+              <e p="StoryNode.cs" t="Include" />
+              <e p="StoryNodeResizer.cs" t="Include" />
+            </e>
+          </e>
+          <e p="VariablesScriptableObject.cs" t="Include" />
+        </e>
+        <e p="tests.cs" t="Include" />
+        <e p="TreeViewExamples" t="Include">
+          <e p="Assets" t="Include">
+            <e p="Editor" t="Include">
+              <e p="TreeDataModel" t="Include">
+                <e p="TreeElement.cs" t="Include" />
+                <e p="TreeElementUtility.cs" t="Include" />
+                <e p="TreeModel.cs" t="Include" />
+              </e>
+              <e p="TreeViewExamples" t="Include">
+                <e p="BackendData" t="Include">
+                  <e p="MyTreeAsset.cs" t="Include" />
+                  <e p="MyTreeAssetEditor.cs" t="Include" />
+                  <e p="MyTreeElement.cs" t="Include" />
+                  <e p="MyTreeElementGenerator.cs" t="Include" />
+                  <e p="TreeViewWithTreeModel.cs" t="Include" />
+                </e>
+                <e p="CustomHeightTreeView.cs" t="Include" />
+                <e p="CustomHeightWindow.cs" t="Include" />
+                <e p="MultiColumnTreeView.cs" t="Include" />
+                <e p="MultiColumnWindow.cs" t="Include" />
+                <e p="SimpleTreeView.cs" t="Include" />
+                <e p="SimpleTreeViewWindow.cs" t="Include" />
+                <e p="TransformsTreeView.cs" t="Include" />
+                <e p="TransformsTreeViewWindow.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="UIElements Examples" t="Include">
+          <e p="Editor" t="Include">
+            <e p="Draggable.cs" t="Include" />
+            <e p="E01_VisualTree.cs" t="Include" />
+            <e p="E02_Layout.cs" t="Include" />
+            <e p="E03_StyleSheet.cs" t="Include" />
+            <e p="E04_Events.cs" t="Include" />
+            <e p="E05_Controls.cs" t="Include" />
+            <e p="E06_IMGUISupport.cs" t="Include" />
+            <e p="E07_EditorControls.cs" t="Include" />
+            <e p="Resources" t="Include">
+              <e p="styles.uss" t="Include" />
+              <e p="todolist.uss" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="GraphView.sln" t="IncludeFlat" />
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
