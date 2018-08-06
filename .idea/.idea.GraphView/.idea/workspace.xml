@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e146ef5d-780b-40d0-8b57-5ab3b4126bdb" name="Default" comment="" />
+    <list default="true" id="e146ef5d-780b-40d0-8b57-5ab3b4126bdb" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/Assets/TestStuff.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TestStuffEditor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TestStuffEditor.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.GraphView/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GraphView/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.GraphView/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GraphView/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RealmWorks/ContentWindow.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/RealmWorks/ContentWindow.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RealmWorks/InkVariablesWindow.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/RealmWorks/InkVariablesWindow.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RealmWorks/InkVariablesWindow.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/RealmWorks/InkVariablesWindow.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RealmWorks/StoryView/Editor/StoryGraphView.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RealmWorks/StoryView/Editor/StoryGraphView.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RealmWorks/StoryView/Editor/StoryNode.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/RealmWorks/StoryView/Editor/StoryNode.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RealmWorks/StoryView/Editor/StoryNodeResizer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/RealmWorks/StoryView/Editor/StoryNodeResizer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RealmWorks/VariablesScriptableObject.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/RealmWorks/VariablesScriptableObject.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/isdhas.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/isdhas.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,110 +44,100 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="VariablesScriptableObject.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/RealmWorks/VariablesScriptableObject.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
-              <folding>
-                <marker date="1532644824704" expanded="false" signature="6:85" ph="..." />
-                <marker date="1532644824704" expanded="true" signature="105:678" ph="{...}" />
-                <marker date="1532644824704" expanded="true" signature="153:434" ph="{...}" />
-                <marker date="1532644824704" expanded="true" signature="304:388" ph="{...}" />
-                <marker date="1532644824704" expanded="true" signature="581:676" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="InkVariablesWindow.cs" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Assets/RealmWorks/InkVariablesWindow.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="56" selection-start-line="21" selection-start-column="47" selection-end-line="21" selection-end-column="56" />
-              <folding>
-                <marker date="1532648700522" expanded="true" signature="6:173" ph="..." />
-                <marker date="1532648700522" expanded="true" signature="193:4473" ph="{...}" />
-                <marker date="1532648700522" expanded="true" signature="240:4471" ph="{...}" />
-                <marker date="1532648700522" expanded="true" signature="569:698" ph="{...}" />
-                <marker date="1532648700522" expanded="true" signature="736:1562" ph="{...}" />
-                <marker date="1532648700522" expanded="true" signature="1057:1412" ph="{...}" />
-                <marker date="1532648700522" expanded="true" signature="1429:1552" ph="{...}" />
-                <marker date="1532648700522" expanded="true" signature="1597:4465" ph="{...}" />
-                <marker date="1532648700522" expanded="true" signature="2039:2115" ph="{...}" />
-                <marker date="1532648700522" expanded="true" signature="2199:2514" ph="{...}" />
-                <marker date="1532648700522" expanded="true" signature="2370:2435" ph="{...}" />
-                <marker date="1532648700522" expanded="true" signature="2625:4071" ph="{...}" />
-                <marker date="1532648700522" expanded="true" signature="3049:3221" ph="{...}" />
-                <marker date="1532648700522" expanded="true" signature="3408:3576" ph="{...}" />
-                <marker date="1532648700522" expanded="true" signature="4146:4271" ph="{...}" />
-                <marker date="1532648700522" expanded="true" signature="4349:4454" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ContentWindow.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/RealmWorks/ContentWindow.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-150">
-              <caret line="42" column="24" selection-start-line="42" selection-start-column="24" selection-end-line="42" selection-end-column="24" />
-              <folding>
-                <marker date="1532648732560" expanded="false" signature="6:131" ph="..." />
-                <marker date="1532648732560" expanded="true" signature="153:6757" ph="{...}" />
-                <marker date="1532648732560" expanded="true" signature="201:4088" ph="{...}" />
-                <marker date="1532648732560" expanded="true" signature="510:638" ph="{...}" />
-                <marker date="1532648732560" expanded="true" signature="671:1155" ph="{...}" />
-                <marker date="1532648732560" expanded="true" signature="989:1143" ph="{...}" />
-                <marker date="1532648732560" expanded="true" signature="1233:2119" ph="{...}" />
-                <marker date="1532648732560" expanded="true" signature="1315:1393" ph="{...}" />
-                <marker date="1532648732560" expanded="true" signature="1649:1980" ph="{...}" />
-                <marker date="1532648732560" expanded="true" signature="2174:2272" ph="{...}" />
-                <marker date="1532648732560" expanded="true" signature="2330:4081" ph="{...}" />
-                <marker date="1532648732560" expanded="true" signature="2457:4037" ph="{...}" />
-                <marker date="1532648732560" expanded="true" signature="2937:3164" ph="{...}" />
-                <marker date="1532648732560" expanded="true" signature="4132:6755" ph="{...}" />
-                <marker date="1532648732560" expanded="true" signature="4231:4273" ph="{...}" />
-                <marker date="1532648732560" expanded="true" signature="4326:6297" ph="{...}" />
-                <marker date="1532648732560" expanded="true" signature="4349:4810" ph="/* BuildRoot is called every time Reload is called to ensure that TreeViewItems ... */" />
-                <marker date="1532648732560" expanded="true" signature="4955:6057" ph="{...}" />
-                <marker date="1532648732560" expanded="true" signature="6366:6411" ph="{...}" />
-                <marker date="1532648732560" expanded="true" signature="6488:6592" ph="{...}" />
-                <marker date="1532648732560" expanded="true" signature="6682:6749" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="StoryNode.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/RealmWorks/StoryView/Editor/StoryNode.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="107" column="44" selection-start-line="107" selection-start-column="44" selection-end-line="107" selection-end-column="44" />
+            <state relative-caret-position="30">
+              <caret line="2" column="52" selection-start-line="2" selection-start-column="52" selection-end-line="2" selection-end-column="52" />
               <folding>
-                <marker date="1532639065489" expanded="false" signature="6:290" ph="..." />
-                <marker date="1532639065489" expanded="true" signature="322:5742" ph="{...}" />
-                <marker date="1532639065489" expanded="true" signature="358:5740" ph="{...}" />
-                <marker date="1532639065489" expanded="true" signature="787:2239" ph="{...}" />
-                <marker date="1532639065489" expanded="true" signature="1045:1249" ph="/* AddPort(Orientation.Horizontal, Direction.Input, &quot;&quot;); ... */" />
-                <marker date="1532639065489" expanded="true" signature="1318:1460" ph="{...}" />
-                <marker date="1532639065489" expanded="true" signature="1642:1809" ph="/* var ext = new ScrollView(); ... */" />
-                <marker date="1532639065489" expanded="true" signature="1950:2090" ph="/* capabilities |= Capabilities.Resizable; ... */" />
-                <marker date="1532639065489" expanded="true" signature="2273:3009" ph="{...}" />
-                <marker date="1532639065489" expanded="true" signature="2347:2402" ph="{...}" />
-                <marker date="1532639065489" expanded="true" signature="2481:2537" ph="{...}" />
-                <marker date="1532639065489" expanded="true" signature="3105:3767" ph="{...}" />
-                <marker date="1532639065489" expanded="true" signature="3407:3568" ph="{...}" />
-                <marker date="1532639065489" expanded="true" signature="3585:3749" ph="{...}" />
-                <marker date="1532639065489" expanded="true" signature="3817:4582" ph="{...}" />
-                <marker date="1532639065489" expanded="true" signature="4014:4059" ph="{...}" />
-                <marker date="1532639065489" expanded="true" signature="4231:4572" ph="{...}" />
-                <marker date="1532639065489" expanded="true" signature="4654:5676" ph="{...}" />
-                <marker date="1532639065489" expanded="true" signature="4774:4835" ph="{...}" />
-                <marker date="1532639065489" expanded="true" signature="4909:5431" ph="{...}" />
-                <marker date="1532639065489" expanded="true" signature="5002:5417" ph="/* var draggedPort = (edge.output != null ? edge.output.edgeConnector.edgeDragHelper.draggedPort : null) ?? (edge ... */" />
-                <marker date="1532639065489" expanded="true" signature="5495:5666" ph="{...}" />
-                <marker date="1532639065489" expanded="true" signature="5713:5734" ph="{...}" />
+                <marker date="1533332149706" expanded="true" signature="6:162" ph="..." />
+                <marker date="1533332149706" expanded="true" signature="237:5570" ph="{...}" />
+                <marker date="1533332149706" expanded="true" signature="666:2069" ph="{...}" />
+                <marker date="1533332149706" expanded="true" signature="842:1079" ph="/* layout = new Rect(pos, size); ... */" />
+                <marker date="1533332149706" expanded="true" signature="1148:1290" ph="{...}" />
+                <marker date="1533332149706" expanded="true" signature="1472:1639" ph="/* var ext = new ScrollView(); ... */" />
+                <marker date="1533332149706" expanded="true" signature="1780:1920" ph="/* capabilities |= Capabilities.Resizable; ... */" />
+                <marker date="1533332149706" expanded="true" signature="2103:2839" ph="{...}" />
+                <marker date="1533332149706" expanded="true" signature="2177:2232" ph="{...}" />
+                <marker date="1533332149706" expanded="true" signature="2311:2367" ph="{...}" />
+                <marker date="1533332149706" expanded="true" signature="2935:3597" ph="{...}" />
+                <marker date="1533332149706" expanded="true" signature="3237:3398" ph="{...}" />
+                <marker date="1533332149706" expanded="true" signature="3415:3579" ph="{...}" />
+                <marker date="1533332149706" expanded="true" signature="3647:4412" ph="{...}" />
+                <marker date="1533332149706" expanded="true" signature="3844:3889" ph="{...}" />
+                <marker date="1533332149706" expanded="true" signature="4061:4402" ph="{...}" />
+                <marker date="1533332149706" expanded="true" signature="4484:5506" ph="{...}" />
+                <marker date="1533332149706" expanded="true" signature="4604:4665" ph="{...}" />
+                <marker date="1533332149706" expanded="true" signature="4739:5261" ph="{...}" />
+                <marker date="1533332149706" expanded="true" signature="4832:5247" ph="/* var draggedPort = (edge.output != null ? edge.output.edgeConnector.edgeDragHelper.draggedPort : null) ?? (edge ... */" />
+                <marker date="1533332149706" expanded="true" signature="5325:5496" ph="{...}" />
+                <marker date="1533332149706" expanded="true" signature="5543:5564" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InkVariablesWindow.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/RealmWorks/InkVariablesWindow.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="593">
+              <caret line="167" column="71" selection-start-line="167" selection-start-column="71" selection-end-line="167" selection-end-column="71" />
+              <folding>
+                <marker date="1533508040658" expanded="false" signature="6:273" ph="..." />
+                <marker date="1533508040658" expanded="true" signature="293:7398" ph="{...}" />
+                <marker date="1533508040658" expanded="true" signature="346:7396" ph="{...}" />
+                <marker date="1533508040658" expanded="true" signature="675:810" ph="{...}" />
+                <marker date="1533508040658" expanded="true" signature="848:991" ph="{...}" />
+                <marker date="1533508040658" expanded="true" signature="911:981" ph="{...}" />
+                <marker date="1533508040658" expanded="true" signature="1038:2159" ph="{...}" />
+                <marker date="1533508040658" expanded="true" signature="1415:1907" ph="{...}" />
+                <marker date="1533508040658" expanded="true" signature="1924:2149" ph="{...}" />
+                <marker date="1533508040658" expanded="true" signature="2194:7116" ph="{...}" />
+                <marker date="1533508040658" expanded="true" signature="2567:2867" ph="/* m_ReorderableList.drawHeaderCallback += (Rect rect) =&gt; ... */" />
+                <marker date="1533508040658" expanded="true" signature="2963:3282" ph="{...}" />
+                <marker date="1533508040658" expanded="true" signature="3134:3199" ph="{...}" />
+                <marker date="1533508040658" expanded="true" signature="3393:6694" ph="{...}" />
+                <marker date="1533508040658" expanded="true" signature="3782:3954" ph="{...}" />
+                <marker date="1533508040658" expanded="true" signature="4116:4284" ph="{...}" />
+                <marker date="1533508040658" expanded="true" signature="4350:4518" ph="{...}" />
+                <marker date="1533508040658" expanded="true" signature="5170:6303" ph="{...}" />
+                <marker date="1533508040658" expanded="true" signature="6345:6527" ph="/* var valueProperty = property.FindPropertyRelative(&quot;value&quot;); ... */" />
+                <marker date="1533508040658" expanded="true" signature="6769:6924" ph="{...}" />
+                <marker date="1533508040658" expanded="true" signature="7002:7105" ph="{...}" />
+                <marker date="1533508040658" expanded="true" signature="7221:7390" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="VariablesScriptableObject.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/RealmWorks/VariablesScriptableObject.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="114" column="43" selection-start-line="114" selection-start-column="43" selection-end-line="114" selection-end-column="43" />
+              <folding>
+                <marker date="1533509326663" expanded="false" signature="6:121" ph="..." />
+                <marker date="1533509326663" expanded="true" signature="141:3201" ph="{...}" />
+                <marker date="1533509326663" expanded="true" signature="188:1682" ph="{...}" />
+                <marker date="1533509326663" expanded="true" signature="332:411" ph="{...}" />
+                <marker date="1533509326663" expanded="true" signature="453:503" ph="{...}" />
+                <marker date="1533509326663" expanded="true" signature="587:1061" ph="{...}" />
+                <marker date="1533509326663" expanded="true" signature="620:1051" ph="{...}" />
+                <marker date="1533509326663" expanded="true" signature="1097:1158" ph="{...}" />
+                <marker date="1533509326663" expanded="true" signature="1233:1676" ph="{...}" />
+                <marker date="1533509326663" expanded="true" signature="1273:1666" ph="{...}" />
+                <marker date="1533509326663" expanded="true" signature="1756:1841" ph="{...}" />
+                <marker date="1533509326663" expanded="true" signature="1815:1835" ph="{...}" />
+                <marker date="1533509326663" expanded="true" signature="1906:2196" ph="{...}" />
+                <marker date="1533509326663" expanded="true" signature="1985:2079" ph="{...}" />
+                <marker date="1533509326663" expanded="true" signature="2133:2190" ph="{...}" />
+                <marker date="1533509326663" expanded="true" signature="2267:2557" ph="{...}" />
+                <marker date="1533509326663" expanded="true" signature="2344:2438" ph="{...}" />
+                <marker date="1533509326663" expanded="true" signature="2493:2551" ph="{...}" />
+                <marker date="1533509326663" expanded="true" signature="2640:2954" ph="{...}" />
+                <marker date="1533509326663" expanded="true" signature="2729:2823" ph="{...}" />
+                <marker date="1533509326663" expanded="true" signature="2884:2948" ph="{...}" />
+                <marker date="1533509326663" expanded="true" signature="3106:3199" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -142,62 +148,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="450">
               <caret line="30" column="19" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="E03_StyleSheet.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/UIElements Examples/Editor/E03_StyleSheet.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="11" column="40" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
-              <folding>
-                <marker date="1529861380722" expanded="false" signature="6:177" ph="..." />
-                <marker date="1529861380722" expanded="true" signature="207:2197" ph="{...}" />
-                <marker date="1529861380722" expanded="true" signature="256:2195" ph="{...}" />
-                <marker date="1529861380722" expanded="true" signature="358:559" ph="{...}" />
-                <marker date="1529861380722" expanded="true" signature="611:696" ph="{...}" />
-                <marker date="1529861380722" expanded="true" signature="729:2189" ph="{...}" />
-                <marker date="1529861380722" expanded="true" signature="1145:1463" ph="{...}" />
-                <marker date="1529861380722" expanded="true" signature="1332:1447" ph="{...}" />
-                <marker date="1529861380722" expanded="true" signature="1362:1429" ph="{...}" />
-                <marker date="1529861380722" expanded="true" signature="2095:2179" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="E02_Layout.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/UIElements Examples/Editor/E02_Layout.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-615">
-              <caret line="38" column="17" selection-start-line="38" selection-start-column="17" selection-end-line="38" selection-end-column="17" />
-              <folding>
-                <marker date="1532628872617" expanded="false" signature="6:177" ph="..." />
-                <marker date="1532628872617" expanded="true" signature="207:4562" ph="{...}" />
-                <marker date="1532628872617" expanded="true" signature="252:4560" ph="{...}" />
-                <marker date="1532628872617" expanded="true" signature="350:543" ph="{...}" />
-                <marker date="1532628872617" expanded="true" signature="595:680" ph="{...}" />
-                <marker date="1532628872617" expanded="true" signature="823:4554" ph="{...}" />
-                <marker date="1532628872617" expanded="true" signature="1020:1721" ph="{...}" />
-                <marker date="1532628872617" expanded="true" signature="1062:1707" ph="{...}" />
-                <marker date="1532628872617" expanded="true" signature="1818:2241" ph="{...}" />
-                <marker date="1532628872617" expanded="true" signature="2005:2225" ph="{...}" />
-                <marker date="1532628872617" expanded="true" signature="2055:2207" ph="{...}" />
-                <marker date="1532628872617" expanded="true" signature="2361:2906" ph="{...}" />
-                <marker date="1532628872617" expanded="true" signature="2403:2890" ph="{...}" />
-                <marker date="1532628872617" expanded="true" signature="2595:2735" ph="/* Example of flexibles elements with 70%-30% distribution ... */" />
-                <marker date="1532628872617" expanded="true" signature="3020:3176" ph="{...}" />
-                <marker date="1532628872617" expanded="true" signature="3062:3162" ph="{...}" />
-                <marker date="1532628872617" expanded="true" signature="3247:3404" ph="{...}" />
-                <marker date="1532628872617" expanded="true" signature="3289:3390" ph="{...}" />
-                <marker date="1532628872617" expanded="true" signature="3474:3968" ph="{...}" />
-                <marker date="1532628872617" expanded="true" signature="3516:3954" ph="{...}" />
-                <marker date="1532628872617" expanded="true" signature="3708:3840" ph="/* Example of an horizontal container that wraps its contents ... */" />
-                <marker date="1532628872617" expanded="true" signature="4048:4544" ph="{...}" />
-                <marker date="1532628872617" expanded="true" signature="4149:4528" ph="{...}" />
-                <marker date="1532628872617" expanded="true" signature="4199:4510" ph="{...}" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -214,29 +164,41 @@
       <find>scroll</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$USER_HOME$/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.shadergraph@2.0.5-preview/Editor/Drawing/Views/ShaderPort.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/RealmWorks/StoryView/Editor/StoryNode.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/FA0567D2-84A6-40DE-9AD6-835669DAE052/e8/1e287e85/Node.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.shadergraph@2.0.5-preview/Editor/Drawing/Views/MaterialGraphView.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/RealmWorks/StoryView/Editor/StoryNodeResizer.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TestStuff.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/846C85BC-F4F8-41CE-8163-61D4FBD3DCCA/f0/9279f961/OdinSerializeAttribute.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/tests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/387F8984-0DA6-46E9-BF48-1A436716E9E0/66/48166950/SirenixEditorGUI.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/isdhas.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/FA0567D2-84A6-40DE-9AD6-835669DAE052/9b/c215a2fa/IEdgeConnectorListener.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/GraphAPI/MyGraphWindow.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/EFADD4E2-8DBE-485A-9C8D-099D8C010896/99/a20930e4/BaseTextElement.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/RealmWorks/VariablesScriptableObject.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$USER_HOME$/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.shadergraph@2.0.5-preview/Editor/Drawing/Views/ShaderPort.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/isdhasEditor.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/RealmWorks/StoryView/Editor/StoryGraphView.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/RealmWorks/StoryView/Editor/StoryNode.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/isdhasEditor.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/RealmWorks/InkVariablesWindow.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/318F40A3-2606-4629-9B43-57350C53962C/9c/75fdcb8f/OdinMenuEditorWindow.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/EFADD4E2-8DBE-485A-9C8D-099D8C010896/df/feded0a4/BaseTextControl`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/RealmWorks/StoryView/Editor/StoryGraphViewWindow.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/RealmWorks/ContentWindow.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/FA0567D2-84A6-40DE-9AD6-835669DAE052/55/00c770c6/GraphView.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/FA0567D2-84A6-40DE-9AD6-835669DAE052/e8/1e287e85/Node.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/RealmWorks/StoryView/Editor/StoryNodeResizer.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/EFADD4E2-8DBE-485A-9C8D-099D8C010896/46/95ee3e0e/TextInputFieldBase`1.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/EFADD4E2-8DBE-485A-9C8D-099D8C010896/84/b9207566/TextField.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/UIElements Examples/Editor/E03_StyleSheet.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/tests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/UIElements Examples/Editor/E03_StyleSheet.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TestStuffEditor.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/UIElements Examples/Editor/E02_Layout.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/UIElements Examples/Editor/E05_Controls.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/UIElements Examples/Editor/E06_IMGUISupport.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/isdhas.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/Sirenix/Demos/Odin Editor Windows/Scripts/Editor/OdinMenuEditorWindowExample.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/ECB5D8E2-0A91-44BC-A4F2-58317D1E56F9/2c/a3ff10e5/List`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.shadergraph@2.0.5-preview/Editor/Drawing/MaterialGraphEditWindow.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -245,7 +207,6 @@
         <option value="$PROJECT_DIR$/Assets/Graph API/MyGraphWindow.cs" />
         <option value="$PROJECT_DIR$/Assets/GraphAPI/MyGraphWindow.cs" />
         <option value="$PROJECT_DIR$/Assets/RealmWorks/StoryView/MyResizer.cs" />
-        <option value="$PROJECT_DIR$/Assets/isdhas.cs" />
         <option value="$PROJECT_DIR$/Assets/isdhasEditor.cs" />
         <option value="$PROJECT_DIR$/Assets/RealmWorks/StoryView/StoryGraphView.cs" />
         <option value="$PROJECT_DIR$/Assets/RealmWorks/StoryView/StoryNodeResizer.cs" />
@@ -253,11 +214,16 @@
         <option value="$PROJECT_DIR$/Assets/RealmWorks/StoryView/StoryNode.cs" />
         <option value="$PROJECT_DIR$/Assets/RealmWorks/StoryView/Editor/Resources/styles.uss" />
         <option value="$PROJECT_DIR$/Assets/RealmWorks/StoryView/Editor/Resources/storyNodeStyles.uss" />
-        <option value="$PROJECT_DIR$/Assets/RealmWorks/StoryView/Editor/StoryNode.cs" />
         <option value="$PROJECT_DIR$/Assets/RealmWorks/StoryView/Editor/Resources/nodeStyles.uss" />
-        <option value="$PROJECT_DIR$/Assets/RealmWorks/VariablesScriptableObject.cs" />
-        <option value="$PROJECT_DIR$/Assets/RealmWorks/InkVariablesWindow.cs" />
+        <option value="$PROJECT_DIR$/Assets/isdhas.cs" />
+        <option value="$PROJECT_DIR$/Assets/TestStuffEditor.cs" />
+        <option value="$PROJECT_DIR$/Assets/TestStuff.cs" />
+        <option value="$PROJECT_DIR$/Assets/Plugins/Sirenix/Demos/Odin Editor Windows/Scripts/Editor/OdinMenuEditorWindowExample.cs" />
         <option value="$PROJECT_DIR$/Assets/RealmWorks/ContentWindow.cs" />
+        <option value="$PROJECT_DIR$/Assets/RealmWorks/StoryView/Editor/StoryGraphViewWindow.cs" />
+        <option value="$PROJECT_DIR$/Assets/RealmWorks/StoryView/Editor/StoryNode.cs" />
+        <option value="$PROJECT_DIR$/Assets/RealmWorks/InkVariablesWindow.cs" />
+        <option value="$PROJECT_DIR$/Assets/RealmWorks/VariablesScriptableObject.cs" />
       </list>
     </option>
   </component>
@@ -270,10 +236,13 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-7" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator currentView="UnityExplorer" proportions="" version="1">
@@ -285,80 +254,24 @@
           <expand>
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="GraphView (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="GraphView (4 projects)" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="GraphView (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="GraphView (4 projects)" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="Assembly-CSharp" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="GraphView (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="GraphView (4 projects)" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="Assembly-CSharp" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="Assets" type="977d5f41:SolutionExplorerNodeRider" />
-            </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="GraphView (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Assembly-CSharp" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Assets" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="RealmWorks" type="977d5f41:SolutionExplorerNodeRider" />
-            </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="GraphView (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Assembly-CSharp-Editor" type="977d5f41:SolutionExplorerNodeRider" />
-            </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="GraphView (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Assembly-CSharp-Editor" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Assets" type="977d5f41:SolutionExplorerNodeRider" />
-            </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="GraphView (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Assembly-CSharp-Editor" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Assets" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="RealmWorks" type="977d5f41:SolutionExplorerNodeRider" />
-            </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="GraphView (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Assembly-CSharp-Editor" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Assets" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="RealmWorks" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="StoryView" type="977d5f41:SolutionExplorerNodeRider" />
-            </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="GraphView (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Assembly-CSharp-Editor" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Assets" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="RealmWorks" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="StoryView" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Editor" type="977d5f41:SolutionExplorerNodeRider" />
-            </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="GraphView (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Assembly-CSharp-Editor" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Assets" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="RealmWorks" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="StoryView" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Editor" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Resources" type="977d5f41:SolutionExplorerNodeRider" />
-            </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="GraphView (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Assets" type="6f407253:SolutionExplorerNodeFileSystem" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="UnityExplorer">
         <subPane>
           <expand>
@@ -375,17 +288,18 @@
               <item name="" type="ad4990d8:FileSystemViewPaneBase$ProjectViewPaneTreeStructure$createRoot$1" />
               <item name="GraphView" type="483dac07:UnityExplorerNode$Root" />
               <item name="" type="1045f7f1:UnityExplorerNode" />
+              <item name="" type="1045f7f1:UnityExplorerNode" />
             </path>
           </expand>
           <select />
         </subPane>
         <option name="show-hidden-items" value="false" />
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://F:/Documents/Unity Projects/GraphView/Assets/RealmWorks/StoryView/Editor/StoryNode.cs" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.C#" />
   </component>
@@ -423,11 +337,19 @@
       <workItem from="1532493478480" duration="2481000" />
       <workItem from="1532581024083" duration="6427000" />
       <workItem from="1532626189564" duration="17810000" />
+      <workItem from="1532716821006" duration="1591000" />
+      <workItem from="1532737610412" duration="1522000" />
+      <workItem from="1532831225017" duration="1384000" />
+      <workItem from="1532833298692" duration="1881000" />
+      <workItem from="1532881771138" duration="4874000" />
+      <workItem from="1533315611018" duration="6477000" />
+      <workItem from="1533484336468" duration="10309000" />
+      <workItem from="1533508149976" duration="1786000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53158000" />
+    <option name="totallyTimeSpent" value="82982000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -440,22 +362,21 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32897604" />
       <window_info anchor="right" id="Errors In Solution" order="3" weight="0.32995737" />
       <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
       <window_info anchor="bottom" id="Unit Tests" order="10" weight="0.32897604" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="13" visible="true" weight="0.32897604" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.32897604" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49837664" visible="true" weight="0.13646056" />
+      <window_info content_ui="combo" id="Project" order="2" sideWeight="0.49837664" visible="true" weight="0.14658849" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Unity" order="9" weight="0.32897604" />
       <window_info anchor="right" x="734" y="69" width="380" height="918" id="Database" order="4" show_stripe_button="false" type="FLOATING" weight="0.20255864" />
-      <window_info id="Structure" order="1" sideWeight="0.5016234" side_tool="true" weight="0.12473348" />
-      <window_info id="Favorites" order="2" sideWeight="0.5016234" side_tool="true" weight="0.12473348" />
+      <window_info id="Structure" order="0" sideWeight="0.5016234" side_tool="true" weight="0.12473348" />
+      <window_info id="Favorites" order="1" sideWeight="0.5016234" side_tool="true" weight="0.12473348" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="NuGet" order="12" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -464,8 +385,33 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32897604" />
     </layout>
+    <layout-to-restore>
+      <window_info anchor="bottom" id="NuGet" order="12" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Unity" order="9" weight="0.32897604" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" sideWeight="0.49837664" visible="true" weight="0.1433902" />
+      <window_info id="Structure" order="0" sideWeight="0.5016234" side_tool="true" weight="0.12473348" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32897604" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" order="10" weight="0.32897604" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32897604" />
+      <window_info anchor="right" id="Errors In Solution" order="3" weight="0.32995737" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32897604" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" x="734" y="69" width="380" height="918" id="Database" order="4" show_stripe_button="false" type="FLOATING" weight="0.20255864" />
+      <window_info id="Favorites" order="1" sideWeight="0.5016234" side_tool="true" weight="0.12473348" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -480,84 +426,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Assets/RealmWorks/VariablesScriptableObject.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="42" column="42" selection-start-line="42" selection-start-column="42" selection-end-line="42" selection-end-column="42" />
-          <folding>
-            <marker date="1532644824704" expanded="false" signature="6:85" ph="..." />
-            <marker date="1532644824704" expanded="true" signature="105:678" ph="{...}" />
-            <marker date="1532644824704" expanded="true" signature="153:434" ph="{...}" />
-            <marker date="1532644824704" expanded="true" signature="304:388" ph="{...}" />
-            <marker date="1532644824704" expanded="true" signature="581:676" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/RealmWorks/InkVariablesWindow.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
-          <folding>
-            <marker date="1532648700522" expanded="true" signature="6:173" ph="..." />
-            <marker date="1532648700522" expanded="true" signature="193:4473" ph="{...}" />
-            <marker date="1532648700522" expanded="true" signature="240:4471" ph="{...}" />
-            <marker date="1532648700522" expanded="true" signature="569:698" ph="{...}" />
-            <marker date="1532648700522" expanded="true" signature="736:1562" ph="{...}" />
-            <marker date="1532648700522" expanded="true" signature="1057:1412" ph="{...}" />
-            <marker date="1532648700522" expanded="true" signature="1429:1552" ph="{...}" />
-            <marker date="1532648700522" expanded="true" signature="1597:4465" ph="{...}" />
-            <marker date="1532648700522" expanded="true" signature="2039:2115" ph="{...}" />
-            <marker date="1532648700522" expanded="true" signature="2199:2514" ph="{...}" />
-            <marker date="1532648700522" expanded="true" signature="2370:2435" ph="{...}" />
-            <marker date="1532648700522" expanded="true" signature="2625:4071" ph="{...}" />
-            <marker date="1532648700522" expanded="true" signature="3049:3221" ph="{...}" />
-            <marker date="1532648700522" expanded="true" signature="3408:3576" ph="{...}" />
-            <marker date="1532648700522" expanded="true" signature="4146:4271" ph="{...}" />
-            <marker date="1532648700522" expanded="true" signature="4349:4454" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/RealmWorks/StoryView/Editor/StoryNode.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="40" selection-start-line="40" selection-end-line="40" />
-          <folding>
-            <marker date="1532639065489" expanded="false" signature="6:290" ph="..." />
-            <marker date="1532639065489" expanded="true" signature="322:5742" ph="{...}" />
-            <marker date="1532639065489" expanded="true" signature="358:5740" ph="{...}" />
-            <marker date="1532639065489" expanded="true" signature="787:2239" ph="{...}" />
-            <marker date="1532639065489" expanded="true" signature="1045:1249" ph="/* AddPort(Orientation.Horizontal, Direction.Input, &quot;&quot;); ... */" />
-            <marker date="1532639065489" expanded="true" signature="1318:1460" ph="{...}" />
-            <marker date="1532639065489" expanded="true" signature="1642:1809" ph="/* var ext = new ScrollView(); ... */" />
-            <marker date="1532639065489" expanded="true" signature="1950:2090" ph="/* capabilities |= Capabilities.Resizable; ... */" />
-            <marker date="1532639065489" expanded="true" signature="2273:3009" ph="{...}" />
-            <marker date="1532639065489" expanded="true" signature="2347:2402" ph="{...}" />
-            <marker date="1532639065489" expanded="true" signature="2481:2537" ph="{...}" />
-            <marker date="1532639065489" expanded="true" signature="3105:3767" ph="{...}" />
-            <marker date="1532639065489" expanded="true" signature="3407:3568" ph="{...}" />
-            <marker date="1532639065489" expanded="true" signature="3585:3749" ph="{...}" />
-            <marker date="1532639065489" expanded="true" signature="3817:4582" ph="{...}" />
-            <marker date="1532639065489" expanded="true" signature="4014:4059" ph="{...}" />
-            <marker date="1532639065489" expanded="true" signature="4231:4572" ph="{...}" />
-            <marker date="1532639065489" expanded="true" signature="4654:5676" ph="{...}" />
-            <marker date="1532639065489" expanded="true" signature="4774:4835" ph="{...}" />
-            <marker date="1532639065489" expanded="true" signature="4909:5431" ph="{...}" />
-            <marker date="1532639065489" expanded="true" signature="5002:5417" ph="/* var draggedPort = (edge.output != null ? edge.output.edgeConnector.edgeDragHelper.draggedPort : null) ?? (edge ... */" />
-            <marker date="1532639065489" expanded="true" signature="5495:5666" ph="{...}" />
-            <marker date="1532639065489" expanded="true" signature="5713:5734" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/RealmWorks/StoryView/Editor/StoryNodeResizer.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1035">
-          <caret line="73" column="23" selection-start-line="73" selection-start-column="23" selection-end-line="73" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/UIElements Examples/Editor/E05_Controls.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -569,31 +437,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="29" column="26" selection-start-line="27" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
-          <folding>
-            <marker date="1532639065489" expanded="false" signature="6:290" ph="..." />
-            <marker date="1532639065489" expanded="true" signature="322:5742" ph="{...}" />
-            <marker date="1532639065489" expanded="true" signature="358:5740" ph="{...}" />
-            <marker date="1532639065489" expanded="true" signature="787:2239" ph="{...}" />
-            <marker date="1532639065489" expanded="true" signature="1045:1249" ph="/* AddPort(Orientation.Horizontal, Direction.Input, &quot;&quot;); ... */" />
-            <marker date="1532639065489" expanded="true" signature="1318:1460" ph="{...}" />
-            <marker date="1532639065489" expanded="true" signature="1642:1809" ph="/* var ext = new ScrollView(); ... */" />
-            <marker date="1532639065489" expanded="true" signature="1950:2090" ph="/* capabilities |= Capabilities.Resizable; ... */" />
-            <marker date="1532639065489" expanded="true" signature="2273:3009" ph="{...}" />
-            <marker date="1532639065489" expanded="true" signature="2347:2402" ph="{...}" />
-            <marker date="1532639065489" expanded="true" signature="2481:2537" ph="{...}" />
-            <marker date="1532639065489" expanded="true" signature="3105:3767" ph="{...}" />
-            <marker date="1532639065489" expanded="true" signature="3407:3568" ph="{...}" />
-            <marker date="1532639065489" expanded="true" signature="3585:3749" ph="{...}" />
-            <marker date="1532639065489" expanded="true" signature="3817:4582" ph="{...}" />
-            <marker date="1532639065489" expanded="true" signature="4014:4059" ph="{...}" />
-            <marker date="1532639065489" expanded="true" signature="4231:4572" ph="{...}" />
-            <marker date="1532639065489" expanded="true" signature="4654:5676" ph="{...}" />
-            <marker date="1532639065489" expanded="true" signature="4774:4835" ph="{...}" />
-            <marker date="1532639065489" expanded="true" signature="4909:5431" ph="{...}" />
-            <marker date="1532639065489" expanded="true" signature="5002:5417" ph="/* var draggedPort = (edge.output != null ? edge.output.edgeConnector.edgeDragHelper.draggedPort : null) ?? (edge ... */" />
-            <marker date="1532639065489" expanded="true" signature="5495:5666" ph="{...}" />
-            <marker date="1532639065489" expanded="true" signature="5713:5734" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -618,13 +461,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/RealmWorks/StoryView/Editor/StoryGraphView.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="960">
-          <caret line="64" column="70" selection-start-line="64" selection-start-column="70" selection-end-line="64" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/RealmWorks/StoryView/Editor/StoryGraphView.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/tests.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -664,31 +501,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="735">
           <caret line="55" column="101" lean-forward="true" selection-start-line="55" selection-start-column="101" selection-end-line="55" selection-end-column="101" />
-          <folding>
-            <marker date="1532639065489" expanded="false" signature="6:290" ph="..." />
-            <marker date="1532639065489" expanded="true" signature="322:5742" ph="{...}" />
-            <marker date="1532639065489" expanded="true" signature="358:5740" ph="{...}" />
-            <marker date="1532639065489" expanded="true" signature="787:2239" ph="{...}" />
-            <marker date="1532639065489" expanded="true" signature="1045:1249" ph="/* AddPort(Orientation.Horizontal, Direction.Input, &quot;&quot;); ... */" />
-            <marker date="1532639065489" expanded="true" signature="1318:1460" ph="{...}" />
-            <marker date="1532639065489" expanded="true" signature="1642:1809" ph="/* var ext = new ScrollView(); ... */" />
-            <marker date="1532639065489" expanded="true" signature="1950:2090" ph="/* capabilities |= Capabilities.Resizable; ... */" />
-            <marker date="1532639065489" expanded="true" signature="2273:3009" ph="{...}" />
-            <marker date="1532639065489" expanded="true" signature="2347:2402" ph="{...}" />
-            <marker date="1532639065489" expanded="true" signature="2481:2537" ph="{...}" />
-            <marker date="1532639065489" expanded="true" signature="3105:3767" ph="{...}" />
-            <marker date="1532639065489" expanded="true" signature="3407:3568" ph="{...}" />
-            <marker date="1532639065489" expanded="true" signature="3585:3749" ph="{...}" />
-            <marker date="1532639065489" expanded="true" signature="3817:4582" ph="{...}" />
-            <marker date="1532639065489" expanded="true" signature="4014:4059" ph="{...}" />
-            <marker date="1532639065489" expanded="true" signature="4231:4572" ph="{...}" />
-            <marker date="1532639065489" expanded="true" signature="4654:5676" ph="{...}" />
-            <marker date="1532639065489" expanded="true" signature="4774:4835" ph="{...}" />
-            <marker date="1532639065489" expanded="true" signature="4909:5431" ph="{...}" />
-            <marker date="1532639065489" expanded="true" signature="5002:5417" ph="/* var draggedPort = (edge.output != null ? edge.output.edgeConnector.edgeDragHelper.draggedPort : null) ?? (edge ... */" />
-            <marker date="1532639065489" expanded="true" signature="5495:5666" ph="{...}" />
-            <marker date="1532639065489" expanded="true" signature="5713:5734" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -724,27 +536,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="22" column="11" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/tests.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/isdhasEditor.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="12" column="50" selection-start-line="12" selection-start-column="50" selection-end-line="12" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/isdhas.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
         </state>
       </provider>
     </entry>
@@ -806,34 +597,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/UIElements Examples/Editor/E02_Layout.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-615">
+        <state relative-caret-position="510">
           <caret line="38" column="17" selection-start-line="38" selection-start-column="17" selection-end-line="38" selection-end-column="17" />
-          <folding>
-            <marker date="1532628872617" expanded="false" signature="6:177" ph="..." />
-            <marker date="1532628872617" expanded="true" signature="207:4562" ph="{...}" />
-            <marker date="1532628872617" expanded="true" signature="252:4560" ph="{...}" />
-            <marker date="1532628872617" expanded="true" signature="350:543" ph="{...}" />
-            <marker date="1532628872617" expanded="true" signature="595:680" ph="{...}" />
-            <marker date="1532628872617" expanded="true" signature="823:4554" ph="{...}" />
-            <marker date="1532628872617" expanded="true" signature="1020:1721" ph="{...}" />
-            <marker date="1532628872617" expanded="true" signature="1062:1707" ph="{...}" />
-            <marker date="1532628872617" expanded="true" signature="1818:2241" ph="{...}" />
-            <marker date="1532628872617" expanded="true" signature="2005:2225" ph="{...}" />
-            <marker date="1532628872617" expanded="true" signature="2055:2207" ph="{...}" />
-            <marker date="1532628872617" expanded="true" signature="2361:2906" ph="{...}" />
-            <marker date="1532628872617" expanded="true" signature="2403:2890" ph="{...}" />
-            <marker date="1532628872617" expanded="true" signature="2595:2735" ph="/* Example of flexibles elements with 70%-30% distribution ... */" />
-            <marker date="1532628872617" expanded="true" signature="3020:3176" ph="{...}" />
-            <marker date="1532628872617" expanded="true" signature="3062:3162" ph="{...}" />
-            <marker date="1532628872617" expanded="true" signature="3247:3404" ph="{...}" />
-            <marker date="1532628872617" expanded="true" signature="3289:3390" ph="{...}" />
-            <marker date="1532628872617" expanded="true" signature="3474:3968" ph="{...}" />
-            <marker date="1532628872617" expanded="true" signature="3516:3954" ph="{...}" />
-            <marker date="1532628872617" expanded="true" signature="3708:3840" ph="/* Example of an horizontal container that wraps its contents ... */" />
-            <marker date="1532628872617" expanded="true" signature="4048:4544" ph="{...}" />
-            <marker date="1532628872617" expanded="true" signature="4149:4528" ph="{...}" />
-            <marker date="1532628872617" expanded="true" signature="4199:4510" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -844,28 +609,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/RealmWorks/StoryView/Editor/StoryGraphView.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="639">
-          <caret line="64" column="70" selection-start-line="64" selection-start-column="70" selection-end-line="64" selection-end-column="70" />
-          <folding>
-            <marker date="1532394053445" expanded="false" signature="6:343" ph="..." />
-            <marker date="1532394053445" expanded="true" signature="375:3872" ph="{...}" />
-            <marker date="1532394053445" expanded="true" signature="430:3055" ph="{...}" />
-            <marker date="1532394053445" expanded="true" signature="715:854" ph="{...}" />
-            <marker date="1532394053445" expanded="true" signature="886:975" ph="{...}" />
-            <marker date="1532394053445" expanded="true" signature="1007:1641" ph="{...}" />
-            <marker date="1532394053445" expanded="true" signature="1321:1599" ph="/* graph.AddManipulator(new SelectionDragger()); ... */" />
-            <marker date="1532394053445" expanded="true" signature="1693:3049" ph="{...}" />
-            <marker date="1532394053445" expanded="true" signature="1749:3039" ph="{...}" />
-            <marker date="1532394053445" expanded="true" signature="3100:3870" ph="{...}" />
-            <marker date="1532394053445" expanded="true" signature="3195:3342" ph="{...}" />
-            <marker date="1532394053445" expanded="true" signature="3387:3478" ph="{...}" />
-            <marker date="1532394053445" expanded="true" signature="3574:3864" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/RealmWorks/StoryView/Editor/StoryGraphView.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/UIElements Examples/Editor/Resources/styles.uss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-322">
@@ -884,18 +628,112 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="11" column="40" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
-          <folding>
-            <marker date="1529861380722" expanded="false" signature="6:177" ph="..." />
-            <marker date="1529861380722" expanded="true" signature="207:2197" ph="{...}" />
-            <marker date="1529861380722" expanded="true" signature="256:2195" ph="{...}" />
-            <marker date="1529861380722" expanded="true" signature="358:559" ph="{...}" />
-            <marker date="1529861380722" expanded="true" signature="611:696" ph="{...}" />
-            <marker date="1529861380722" expanded="true" signature="729:2189" ph="{...}" />
-            <marker date="1529861380722" expanded="true" signature="1145:1463" ph="{...}" />
-            <marker date="1529861380722" expanded="true" signature="1332:1447" ph="{...}" />
-            <marker date="1529861380722" expanded="true" signature="1362:1429" ph="{...}" />
-            <marker date="1529861380722" expanded="true" signature="2095:2179" ph="{...}" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/isdhasEditor.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/318F40A3-2606-4629-9B43-57350C53962C/9c/75fdcb8f/OdinMenuEditorWindow.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-648">
+          <caret line="63" column="24" selection-start-line="63" selection-start-column="24" selection-end-line="63" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Plugins/Sirenix/Demos/Sample - RPG Editor/Scripts/Editor/RPGEditorWindow.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-307">
+          <caret line="23" column="44" selection-start-line="23" selection-start-column="44" selection-end-line="23" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/387F8984-0DA6-46E9-BF48-1A436716E9E0/66/48166950/SirenixEditorGUI.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="848" column="7" lean-forward="true" selection-start-line="848" selection-start-column="7" selection-end-line="848" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/846C85BC-F4F8-41CE-8163-61D4FBD3DCCA/f0/9279f961/OdinSerializeAttribute.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Plugins/Sirenix/Demos/Custom Drawer Examples/Scripts/GenericDrawerExample.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="51" column="25" lean-forward="true" selection-start-line="51" selection-start-column="25" selection-end-line="51" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/tests.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/isdhas.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/TestStuffEditor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="31" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/TestStuff.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Plugins/Sirenix/Demos/Odin Editor Windows/Scripts/Editor/OdinMenuEditorWindowExample.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="34" column="88" selection-start-line="34" selection-start-column="88" selection-end-line="34" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/FA0567D2-84A6-40DE-9AD6-835669DAE052/9b/c215a2fa/IEdgeConnectorListener.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/RealmWorks/ContentWindow.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="931">
+          <caret line="122" column="32" selection-start-line="122" selection-start-column="32" selection-end-line="122" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.shadergraph@2.0.5-preview/Editor/Drawing/Views/MaterialGraphView.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="34" lean-forward="true" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.shadergraph@2.0.5-preview/Editor/Drawing/MaterialGraphEditWindow.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6711" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/RealmWorks/StoryView/Editor/StoryGraphViewWindow.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="4" lean-forward="true" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
         </state>
       </provider>
     </entry>
@@ -906,103 +744,95 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/RealmWorks/VariablesScriptableObject.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
-          <folding>
-            <marker date="1532644824704" expanded="false" signature="6:85" ph="..." />
-            <marker date="1532644824704" expanded="true" signature="105:678" ph="{...}" />
-            <marker date="1532644824704" expanded="true" signature="153:434" ph="{...}" />
-            <marker date="1532644824704" expanded="true" signature="304:388" ph="{...}" />
-            <marker date="1532644824704" expanded="true" signature="581:676" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/RealmWorks/ContentWindow.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-150">
-          <caret line="42" column="24" selection-start-line="42" selection-start-column="24" selection-end-line="42" selection-end-column="24" />
-          <folding>
-            <marker date="1532648732560" expanded="false" signature="6:131" ph="..." />
-            <marker date="1532648732560" expanded="true" signature="153:6757" ph="{...}" />
-            <marker date="1532648732560" expanded="true" signature="201:4088" ph="{...}" />
-            <marker date="1532648732560" expanded="true" signature="510:638" ph="{...}" />
-            <marker date="1532648732560" expanded="true" signature="671:1155" ph="{...}" />
-            <marker date="1532648732560" expanded="true" signature="989:1143" ph="{...}" />
-            <marker date="1532648732560" expanded="true" signature="1233:2119" ph="{...}" />
-            <marker date="1532648732560" expanded="true" signature="1315:1393" ph="{...}" />
-            <marker date="1532648732560" expanded="true" signature="1649:1980" ph="{...}" />
-            <marker date="1532648732560" expanded="true" signature="2174:2272" ph="{...}" />
-            <marker date="1532648732560" expanded="true" signature="2330:4081" ph="{...}" />
-            <marker date="1532648732560" expanded="true" signature="2457:4037" ph="{...}" />
-            <marker date="1532648732560" expanded="true" signature="2937:3164" ph="{...}" />
-            <marker date="1532648732560" expanded="true" signature="4132:6755" ph="{...}" />
-            <marker date="1532648732560" expanded="true" signature="4231:4273" ph="{...}" />
-            <marker date="1532648732560" expanded="true" signature="4326:6297" ph="{...}" />
-            <marker date="1532648732560" expanded="true" signature="4349:4810" ph="/* BuildRoot is called every time Reload is called to ensure that TreeViewItems ... */" />
-            <marker date="1532648732560" expanded="true" signature="4955:6057" ph="{...}" />
-            <marker date="1532648732560" expanded="true" signature="6366:6411" ph="{...}" />
-            <marker date="1532648732560" expanded="true" signature="6488:6592" ph="{...}" />
-            <marker date="1532648732560" expanded="true" signature="6682:6749" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/RealmWorks/StoryView/Editor/StoryNode.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="107" column="44" selection-start-line="107" selection-start-column="44" selection-end-line="107" selection-end-column="44" />
+        <state relative-caret-position="30">
+          <caret line="2" column="52" selection-start-line="2" selection-start-column="52" selection-end-line="2" selection-end-column="52" />
           <folding>
-            <marker date="1532639065489" expanded="false" signature="6:290" ph="..." />
-            <marker date="1532639065489" expanded="true" signature="322:5742" ph="{...}" />
-            <marker date="1532639065489" expanded="true" signature="358:5740" ph="{...}" />
-            <marker date="1532639065489" expanded="true" signature="787:2239" ph="{...}" />
-            <marker date="1532639065489" expanded="true" signature="1045:1249" ph="/* AddPort(Orientation.Horizontal, Direction.Input, &quot;&quot;); ... */" />
-            <marker date="1532639065489" expanded="true" signature="1318:1460" ph="{...}" />
-            <marker date="1532639065489" expanded="true" signature="1642:1809" ph="/* var ext = new ScrollView(); ... */" />
-            <marker date="1532639065489" expanded="true" signature="1950:2090" ph="/* capabilities |= Capabilities.Resizable; ... */" />
-            <marker date="1532639065489" expanded="true" signature="2273:3009" ph="{...}" />
-            <marker date="1532639065489" expanded="true" signature="2347:2402" ph="{...}" />
-            <marker date="1532639065489" expanded="true" signature="2481:2537" ph="{...}" />
-            <marker date="1532639065489" expanded="true" signature="3105:3767" ph="{...}" />
-            <marker date="1532639065489" expanded="true" signature="3407:3568" ph="{...}" />
-            <marker date="1532639065489" expanded="true" signature="3585:3749" ph="{...}" />
-            <marker date="1532639065489" expanded="true" signature="3817:4582" ph="{...}" />
-            <marker date="1532639065489" expanded="true" signature="4014:4059" ph="{...}" />
-            <marker date="1532639065489" expanded="true" signature="4231:4572" ph="{...}" />
-            <marker date="1532639065489" expanded="true" signature="4654:5676" ph="{...}" />
-            <marker date="1532639065489" expanded="true" signature="4774:4835" ph="{...}" />
-            <marker date="1532639065489" expanded="true" signature="4909:5431" ph="{...}" />
-            <marker date="1532639065489" expanded="true" signature="5002:5417" ph="/* var draggedPort = (edge.output != null ? edge.output.edgeConnector.edgeDragHelper.draggedPort : null) ?? (edge ... */" />
-            <marker date="1532639065489" expanded="true" signature="5495:5666" ph="{...}" />
-            <marker date="1532639065489" expanded="true" signature="5713:5734" ph="{...}" />
+            <marker date="1533332149706" expanded="true" signature="6:162" ph="..." />
+            <marker date="1533332149706" expanded="true" signature="237:5570" ph="{...}" />
+            <marker date="1533332149706" expanded="true" signature="666:2069" ph="{...}" />
+            <marker date="1533332149706" expanded="true" signature="842:1079" ph="/* layout = new Rect(pos, size); ... */" />
+            <marker date="1533332149706" expanded="true" signature="1148:1290" ph="{...}" />
+            <marker date="1533332149706" expanded="true" signature="1472:1639" ph="/* var ext = new ScrollView(); ... */" />
+            <marker date="1533332149706" expanded="true" signature="1780:1920" ph="/* capabilities |= Capabilities.Resizable; ... */" />
+            <marker date="1533332149706" expanded="true" signature="2103:2839" ph="{...}" />
+            <marker date="1533332149706" expanded="true" signature="2177:2232" ph="{...}" />
+            <marker date="1533332149706" expanded="true" signature="2311:2367" ph="{...}" />
+            <marker date="1533332149706" expanded="true" signature="2935:3597" ph="{...}" />
+            <marker date="1533332149706" expanded="true" signature="3237:3398" ph="{...}" />
+            <marker date="1533332149706" expanded="true" signature="3415:3579" ph="{...}" />
+            <marker date="1533332149706" expanded="true" signature="3647:4412" ph="{...}" />
+            <marker date="1533332149706" expanded="true" signature="3844:3889" ph="{...}" />
+            <marker date="1533332149706" expanded="true" signature="4061:4402" ph="{...}" />
+            <marker date="1533332149706" expanded="true" signature="4484:5506" ph="{...}" />
+            <marker date="1533332149706" expanded="true" signature="4604:4665" ph="{...}" />
+            <marker date="1533332149706" expanded="true" signature="4739:5261" ph="{...}" />
+            <marker date="1533332149706" expanded="true" signature="4832:5247" ph="/* var draggedPort = (edge.output != null ? edge.output.edgeConnector.edgeDragHelper.draggedPort : null) ?? (edge ... */" />
+            <marker date="1533332149706" expanded="true" signature="5325:5496" ph="{...}" />
+            <marker date="1533332149706" expanded="true" signature="5543:5564" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/RealmWorks/InkVariablesWindow.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="56" selection-start-line="21" selection-start-column="47" selection-end-line="21" selection-end-column="56" />
+        <state relative-caret-position="593">
+          <caret line="167" column="71" selection-start-line="167" selection-start-column="71" selection-end-line="167" selection-end-column="71" />
           <folding>
-            <marker date="1532648700522" expanded="true" signature="6:173" ph="..." />
-            <marker date="1532648700522" expanded="true" signature="193:4473" ph="{...}" />
-            <marker date="1532648700522" expanded="true" signature="240:4471" ph="{...}" />
-            <marker date="1532648700522" expanded="true" signature="569:698" ph="{...}" />
-            <marker date="1532648700522" expanded="true" signature="736:1562" ph="{...}" />
-            <marker date="1532648700522" expanded="true" signature="1057:1412" ph="{...}" />
-            <marker date="1532648700522" expanded="true" signature="1429:1552" ph="{...}" />
-            <marker date="1532648700522" expanded="true" signature="1597:4465" ph="{...}" />
-            <marker date="1532648700522" expanded="true" signature="2039:2115" ph="{...}" />
-            <marker date="1532648700522" expanded="true" signature="2199:2514" ph="{...}" />
-            <marker date="1532648700522" expanded="true" signature="2370:2435" ph="{...}" />
-            <marker date="1532648700522" expanded="true" signature="2625:4071" ph="{...}" />
-            <marker date="1532648700522" expanded="true" signature="3049:3221" ph="{...}" />
-            <marker date="1532648700522" expanded="true" signature="3408:3576" ph="{...}" />
-            <marker date="1532648700522" expanded="true" signature="4146:4271" ph="{...}" />
-            <marker date="1532648700522" expanded="true" signature="4349:4454" ph="{...}" />
+            <marker date="1533508040658" expanded="false" signature="6:273" ph="..." />
+            <marker date="1533508040658" expanded="true" signature="293:7398" ph="{...}" />
+            <marker date="1533508040658" expanded="true" signature="346:7396" ph="{...}" />
+            <marker date="1533508040658" expanded="true" signature="675:810" ph="{...}" />
+            <marker date="1533508040658" expanded="true" signature="848:991" ph="{...}" />
+            <marker date="1533508040658" expanded="true" signature="911:981" ph="{...}" />
+            <marker date="1533508040658" expanded="true" signature="1038:2159" ph="{...}" />
+            <marker date="1533508040658" expanded="true" signature="1415:1907" ph="{...}" />
+            <marker date="1533508040658" expanded="true" signature="1924:2149" ph="{...}" />
+            <marker date="1533508040658" expanded="true" signature="2194:7116" ph="{...}" />
+            <marker date="1533508040658" expanded="true" signature="2567:2867" ph="/* m_ReorderableList.drawHeaderCallback += (Rect rect) =&gt; ... */" />
+            <marker date="1533508040658" expanded="true" signature="2963:3282" ph="{...}" />
+            <marker date="1533508040658" expanded="true" signature="3134:3199" ph="{...}" />
+            <marker date="1533508040658" expanded="true" signature="3393:6694" ph="{...}" />
+            <marker date="1533508040658" expanded="true" signature="3782:3954" ph="{...}" />
+            <marker date="1533508040658" expanded="true" signature="4116:4284" ph="{...}" />
+            <marker date="1533508040658" expanded="true" signature="4350:4518" ph="{...}" />
+            <marker date="1533508040658" expanded="true" signature="5170:6303" ph="{...}" />
+            <marker date="1533508040658" expanded="true" signature="6345:6527" ph="/* var valueProperty = property.FindPropertyRelative(&quot;value&quot;); ... */" />
+            <marker date="1533508040658" expanded="true" signature="6769:6924" ph="{...}" />
+            <marker date="1533508040658" expanded="true" signature="7002:7105" ph="{...}" />
+            <marker date="1533508040658" expanded="true" signature="7221:7390" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/RealmWorks/VariablesScriptableObject.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="114" column="43" selection-start-line="114" selection-start-column="43" selection-end-line="114" selection-end-column="43" />
+          <folding>
+            <marker date="1533509326663" expanded="false" signature="6:121" ph="..." />
+            <marker date="1533509326663" expanded="true" signature="141:3201" ph="{...}" />
+            <marker date="1533509326663" expanded="true" signature="188:1682" ph="{...}" />
+            <marker date="1533509326663" expanded="true" signature="332:411" ph="{...}" />
+            <marker date="1533509326663" expanded="true" signature="453:503" ph="{...}" />
+            <marker date="1533509326663" expanded="true" signature="587:1061" ph="{...}" />
+            <marker date="1533509326663" expanded="true" signature="620:1051" ph="{...}" />
+            <marker date="1533509326663" expanded="true" signature="1097:1158" ph="{...}" />
+            <marker date="1533509326663" expanded="true" signature="1233:1676" ph="{...}" />
+            <marker date="1533509326663" expanded="true" signature="1273:1666" ph="{...}" />
+            <marker date="1533509326663" expanded="true" signature="1756:1841" ph="{...}" />
+            <marker date="1533509326663" expanded="true" signature="1815:1835" ph="{...}" />
+            <marker date="1533509326663" expanded="true" signature="1906:2196" ph="{...}" />
+            <marker date="1533509326663" expanded="true" signature="1985:2079" ph="{...}" />
+            <marker date="1533509326663" expanded="true" signature="2133:2190" ph="{...}" />
+            <marker date="1533509326663" expanded="true" signature="2267:2557" ph="{...}" />
+            <marker date="1533509326663" expanded="true" signature="2344:2438" ph="{...}" />
+            <marker date="1533509326663" expanded="true" signature="2493:2551" ph="{...}" />
+            <marker date="1533509326663" expanded="true" signature="2640:2954" ph="{...}" />
+            <marker date="1533509326663" expanded="true" signature="2729:2823" ph="{...}" />
+            <marker date="1533509326663" expanded="true" signature="2884:2948" ph="{...}" />
+            <marker date="1533509326663" expanded="true" signature="3106:3199" ph="{...}" />
           </folding>
         </state>
       </provider>

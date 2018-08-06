@@ -3,7 +3,9 @@
   <component name="ContentModelStore">
     <e p="C:\Users\KonViction\.Rider2018.1\system\resharper-host\Local\Transient\ReSharperHost\v12\SolutionCaches\_GraphView.-703196813.00" t="ExcludeRecursive" />
     <e p="F:\Documents\Unity Projects\GraphView" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor-firstpass.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp-firstpass.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
         <e p="ComponentEmbedder" t="Include">
@@ -17,6 +19,101 @@
         </e>
         <e p="isdhas.cs" t="Include" />
         <e p="isdhasEditor.cs" t="Include" />
+        <e p="Plugins" t="Include">
+          <e p="GitHub" t="Include">
+            <e p="Editor" t="Include">
+              <e p="credits.txt" t="Include" />
+              <e p="eula.txt" t="Include" />
+            </e>
+          </e>
+          <e p="Sirenix" t="Include">
+            <e p="Assemblies" t="Include">
+              <e p="link.xml" t="Include" />
+              <e p="Sirenix.OdinInspector.Attributes.xml" t="Include" />
+              <e p="Sirenix.OdinInspector.Editor.xml" t="Include" />
+              <e p="Sirenix.Serialization.Config.xml" t="Include" />
+              <e p="Sirenix.Serialization.xml" t="Include" />
+              <e p="Sirenix.Utilities.Editor.xml" t="Include" />
+              <e p="Sirenix.Utilities.xml" t="Include" />
+            </e>
+            <e p="Demos" t="Include">
+              <e p="Custom Drawer Examples" t="Include">
+                <e p="Scripts" t="Include">
+                  <e p="ContextExample.cs" t="Include" />
+                  <e p="CustomDrawerExample.cs" t="Include" />
+                  <e p="CustomGroupExample.cs" t="Include" />
+                  <e p="GenericDrawerExample.cs" t="Include" />
+                  <e p="GenericMenuExample.cs" t="Include" />
+                  <e p="HealthBarExample.cs" t="Include" />
+                  <e p="MinesweeperExample.cs" t="Include" />
+                  <e p="PriorityExamples.cs" t="Include" />
+                  <e p="ReflectionExample.cs" t="Include" />
+                  <e p="StringMemberHelperExample.cs" t="Include" />
+                  <e p="ValidationExample.cs" t="Include" />
+                </e>
+              </e>
+              <e p="Odin Editor Windows" t="Include">
+                <e p="Scripts" t="Include">
+                  <e p="Editor" t="Include">
+                    <e p="BasicOdinEditorExampleWindow.cs" t="Include" />
+                    <e p="OdinMenuEditorWindowExample.cs" t="Include" />
+                    <e p="OdinMenuStyleExample.cs" t="Include" />
+                    <e p="OverrideGetTargetsExampleWindow.cs" t="Include" />
+                    <e p="QuicklyInspectObjects.cs" t="Include" />
+                    <e p="SomeData.cs" t="Include" />
+                    <e p="SomeTextureToolWindow.cs" t="Include" />
+                  </e>
+                </e>
+              </e>
+              <e p="Sample - RPG Editor" t="Include">
+                <e p="Icons" t="Include">
+                  <e p="icons_by_ravenmore.txt" t="Include" />
+                </e>
+                <e p="Scripts" t="Include">
+                  <e p="Character" t="Include">
+                    <e p="Character.cs" t="Include" />
+                    <e p="CharacterAlignment.cs" t="Include" />
+                    <e p="CharacterEquipment.cs" t="Include" />
+                    <e p="CharacterOverview.cs" t="Include" />
+                    <e p="CharacterStats.cs" t="Include" />
+                  </e>
+                  <e p="Editor" t="Include">
+                    <e p="CharacterTable.cs" t="Include" />
+                    <e p="ItemDrawer.cs" t="Include" />
+                    <e p="ItemSlotCellDrawer.cs" t="Include" />
+                    <e p="RPGEditorWindow.cs" t="Include" />
+                    <e p="ScriptableObjectCreator.cs" t="Include" />
+                  </e>
+                  <e p="Items" t="Include">
+                    <e p="Armor.cs" t="Include" />
+                    <e p="ConsumableItem.cs" t="Include" />
+                    <e p="EquipableItem.cs" t="Include" />
+                    <e p="Item.cs" t="Include" />
+                    <e p="ItemTypes.cs" t="Include" />
+                    <e p="WeaponItem.cs" t="Include" />
+                  </e>
+                  <e p="Misc" t="Include">
+                    <e p="ItemSlot.cs" t="Include" />
+                    <e p="RequirementList.cs" t="Include" />
+                    <e p="StatType.cs" t="Include" />
+                    <e p="StatValue.cs" t="Include" />
+                  </e>
+                </e>
+              </e>
+            </e>
+            <e p="Odin Inspector" t="Include">
+              <e p="Scripts" t="Include">
+                <e p="Editor" t="Include">
+                  <e p="BuildAOTAutomation.cs" t="Include" />
+                  <e p="EnsureOdinInspectorDefine.cs" t="Include" />
+                  <e p="OdinGettingStartedWizard.cs" t="Include" />
+                  <e p="VectorIntDrawers.cs" t="Include" />
+                </e>
+                <e p="VectorIntFormatters.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
         <e p="RealmWorks" t="Include">
           <e p="ContentWindow.cs" t="Include" />
           <e p="InkVariablesWindow.cs" t="Include" />
@@ -25,7 +122,7 @@
               <e p="Resources" t="Include">
                 <e p="nodeStyles.uss" t="Include" />
               </e>
-              <e p="StoryGraphView.cs" t="Include" />
+              <e p="StoryGraphViewWindow.cs" t="Include" />
               <e p="StoryNode.cs" t="Include" />
               <e p="StoryNodeResizer.cs" t="Include" />
             </e>
@@ -33,6 +130,8 @@
           <e p="VariablesScriptableObject.cs" t="Include" />
         </e>
         <e p="tests.cs" t="Include" />
+        <e p="TestStuff.cs" t="Include" />
+        <e p="TestStuffEditor.cs" t="Include" />
         <e p="TreeViewExamples" t="Include">
           <e p="Assets" t="Include">
             <e p="Editor" t="Include">

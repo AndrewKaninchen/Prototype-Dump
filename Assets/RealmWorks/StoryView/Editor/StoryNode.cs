@@ -1,13 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
-using UnityEditor;
 using UnityEditor.Experimental.UIElements.GraphView;
 using UnityEngine;
 using UnityEngine.Experimental.UIElements;
-using UnityEngine.Experimental.UIElements.StyleEnums;
-using UnityEngine.Experimental.UIElements.StyleSheets;
 
-namespace RealmWorks.StoryView
+namespace RealmWorks.StoryView.Editor
 {
     public class StoryNode : Node
     {
@@ -28,8 +25,6 @@ namespace RealmWorks.StoryView
             m_Graph = graph;
             SetPosition(new Rect(pos, GetPosition().size));
             //layout = new Rect(pos, size);
-
-            this.AddManipulator(new Dragger());
 
 //            AddPort(Orientation.Horizontal, Direction.Input, "");
 //            AddPort(Orientation.Horizontal, Direction.Input, "");
@@ -129,11 +124,11 @@ namespace RealmWorks.StoryView
 
         private class MyEdgeConnectorListener : IEdgeConnectorListener
         {
-            private StoryGraphView m_graph;
+            private StoryGraphView m_Graph;
 
             public MyEdgeConnectorListener(StoryGraphView graph)
             {
-                m_graph = graph;
+                m_Graph = graph;
             }
 
 
@@ -152,7 +147,7 @@ namespace RealmWorks.StoryView
             {
                 Debug.Log("OnDrop");
                 edge.input.ConnectTo(edge.output);
-                m_graph.AddElement(edge);
+                m_Graph.AddElement(edge);
             
             }
         }

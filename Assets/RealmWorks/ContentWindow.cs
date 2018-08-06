@@ -1,5 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
+using Sirenix.OdinInspector.Editor;
+using Sirenix.Utilities;
 using UnityEditor;
 using UnityEditor.IMGUI.Controls;
 using UnityEngine;
@@ -52,30 +54,21 @@ namespace RealmWorks
             //style. = 18;
             m_Scroll = EditorGUILayout.BeginScrollView(m_Scroll);
             
-            CategoryBar("People");
-            CategoryBar("Groups");
-            CategoryBar("Places");
-            if (m_CategoryFolds["Places"])
-            {
-                EditorGUI.indentLevel++;                
-                var rect = GUILayoutUtility.GetRect(position.width - 15f, m_SimpleTreeView.totalHeight);
-                rect = EditorGUI.IndentedRect(rect);
-
-                m_SimpleTreeView.OnGUI(rect);
-                EditorGUI.indentLevel--;
-            }
-            CategoryBar("Things");
+            CategoryBar("People", Sirenix.Utilities.Editor.EditorIcons.SingleUser.Raw);
+            CategoryBar("Groups", Sirenix.Utilities.Editor.EditorIcons.MultiUser.Raw);
+            CategoryBar("Places", Sirenix.Utilities.Editor.EditorIcons.Globe.Raw);
+            CategoryBar("Things", Sirenix.Utilities.Editor.EditorIcons.Tree.Raw);
             //CategoryBar("Plots");
             
             EditorGUILayout.EndScrollView();
         }
         
-        private void CategoryBar(string name)
+        private void CategoryBar(string name, Texture2D texture)
         {
-            m_CategoryFolds[name] = CategoryBar(name, m_CategoryFolds[name]);
+            m_CategoryFolds[name] = CategoryBar(name, m_CategoryFolds[name], texture);
         }
 
-        private bool CategoryBar(string name, bool fold)
+        private bool CategoryBar(string name, bool fold, Texture2D texture)
         {
             bool internalFold;
             using (var h = new EditorGUILayout.HorizontalScope(EditorStyles.helpBox))
@@ -86,7 +79,7 @@ namespace RealmWorks
                 var iconRect = GUILayoutUtility.GetRect(iconSize, iconSize, new GUIStyle() { stretchWidth = false });                
 
                 //GUI.Box(iconRect, "");
-                GUI.DrawTexture(iconRect, m_Uchan);
+                GUI.DrawTexture(iconRect, texture);
 
                 var labelStyle = new GUIStyle (EditorStyles.label)
                 {
@@ -115,7 +108,18 @@ namespace RealmWorks
 
                 GUI.Label(triangleRect, fold ? "\u25BC" : "\u25B6", new GUIStyle(labelStyle) { alignment = TextAnchor.MiddleCenter});
             }
+            
+            if (fold)
+            {
+                //EditorGUI.indentLevel++;                
+                var rect = GUILayoutUtility.GetRect(position.width - 30f, m_SimpleTreeView.totalHeight);
+                rect.position += new Vector2(10f, 0f);
+                //rect = EditorGUI.IndentedRect(rect);
 
+                m_SimpleTreeView.OnGUI(rect);
+                //EditorGUI.indentLevel--;
+            }
+            
             return internalFold;
         }
 

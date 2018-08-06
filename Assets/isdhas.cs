@@ -5,5 +5,5 @@ using UnityEngine.Rendering;
 
 public class isdhas : MonoBehaviour
 {
-	[SerializeField] public string text;	
+	[SerializeField] public string text;
 }
